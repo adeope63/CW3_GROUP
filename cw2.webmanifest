@@ -1,0 +1,12 @@
+{
+    "name": "After School Lessons",
+    "short_name": "AfterSchool",
+    "description": "Progressive web app to see lessons",
+    "icons": [
+      { "src":  "assests/FMS2.png", "sizes": "512x512", "type": "image/png" },
+      { "src":  "assests/FMS.png", "sizes": "192x192", "type": "image/png" }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#0000"
+  }
